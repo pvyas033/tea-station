@@ -3,6 +3,10 @@
 
 /*  Globale Variable */
 
+html {
+  scroll-behavior: smooth;
+}
+
 :root {
   --clr-primary: #9c7c23;
   --clr-primary-light: #a88a36;
